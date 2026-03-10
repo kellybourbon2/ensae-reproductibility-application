@@ -6,7 +6,7 @@ import pandas as pd
 
 unknown_types = sio.get_untrusted_types(file="model.skops")
 model = sio.load("model.skops", trusted=unknown_types)
-
+#test
 app = FastAPI(
     title="Prédiction de survie sur le Titanic",
     description="Application de prédiction de survie sur le Titanic 🚢 <br>Une version par API pour faciliter la réutilisation du modèle 🚀"
