@@ -14,3 +14,7 @@ Pour installer les dépendances
 ```bash
 pip install -r requirements.txt
 ```
+
+Workflow github action Markdown
+
+[![Construction image Docker](https://github.com/kellybourbon2/ensae-reproductibility-application/actions/workflows/prod.yaml/badge.svg)](https://github.com/kellybourbon2/ensae-reproductibility-application/actions/workflows/prod.yaml)
