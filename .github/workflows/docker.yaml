@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - dev
+      - app16_dev
 
 
 jobs:
